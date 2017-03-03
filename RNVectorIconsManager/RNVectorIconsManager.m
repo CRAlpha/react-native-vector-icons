@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Joel Arvidsson. All rights reserved.
 //
 
-#import <React/RNVectorIconsManager.h>
+#import "RNVectorIconsManager.h"
 #import <React/RCTConvert.h>
 #import <React/RCTBridge.h>
 #import <React/RCTUtils.h>
